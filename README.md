@@ -28,3 +28,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshkumar-novice&layout=compact&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffc800&icon_color=DD2727&text_color=58A6FF" width="400em">
   
 </div>
+
+[![@mahi_novice's Holopin board](https://holopin.me/mahi_novice)](https://holopin.io/@mahi_novice)
