@@ -4,6 +4,3 @@ Hey There! I'm Maheshkumar.
 
 Recent Activities,
 - [Advent Of Code 2024](https://github.com/Maheshkumar-novice/Advent-Of-Code-Solutions)
-
-Reading,
-- [ ] https://hypermedia.systems/book/contents/
